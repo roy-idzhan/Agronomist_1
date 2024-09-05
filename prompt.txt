@@ -38,8 +38,3 @@ Special Instructions:
 
 ---
 
-Dynamic Inputs:
-
-- Context: {Context will be provided here}
-  
-- Query: {Query will be provided here}
