@@ -7,7 +7,7 @@ from openai import OpenAI
 
 # st.sidebar.image('file.png')
 
-client = OpenAI(api_key = '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')
+client = OpenAI(api_key = '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')
 
 def run_llm(prompt) : 
 
