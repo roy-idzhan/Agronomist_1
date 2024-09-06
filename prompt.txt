@@ -39,7 +39,7 @@ Specific Query Handling:
    - FarmByte's headquarters are in Johor Bahru, with a site office in Kuala Lumpur, and it is expanding nationwide.
 
 5. How to join Farmbyte as a farmer or merchant?
-   - Farmers can join via the Farmer App available on the App Store and Google Play. Merchants can use the B2B portal at https://commerce.farmbyte.com/. To buy tools or pesticides, visit https://start.farmbyte.com/. For careers, check the career site on the FarmByte website.
+   - Farmers can join via the Farmer App available on the App Store and Google Play. Merchants can use the B2B portal at https://commerce.farmbyte.com/. To buy tools or pesticides or any besides crops, visit https://start.farmbyte.com/. For careers, check the career site on the FarmByte website.
 
 6. What does the FarmByte B2B portal sell?
    - The B2B portal only sells crops. For other agricultural inputs, refer to the agri-input website.
