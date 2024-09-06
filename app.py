@@ -77,6 +77,19 @@ def check_mesaage():
 
 check_mesaage()
 
+# Custom chat messages
+for message in st.session_state.messages:
+    if message['role'] == 'user':
+        st.markdown(f'<div style="display: flex; align-items: center;">'
+                    f'<img src="https://i.imgur.com/u54ZDPk.png" width="30"/>'
+                    f'<div style="margin-left: 10px;">{message["content"]}</div>'
+                    '</div>', unsafe_allow_html=True)
+    else:
+        st.markdown(f'<div style="display: flex; align-items: center;">'
+                    f'<img src="https://i.imgur.com/u54ZDPk.png" width="30"/>'
+                    f'<div style="margin-left: 10px;">{message["content"]}</div>'
+                    '</div>', unsafe_allow_html=True)
+
 # Display previous chat messages
 for message in st.session_state.messages: 
     with st.chat_message(message['role']): 
