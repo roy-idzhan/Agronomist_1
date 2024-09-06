@@ -8,6 +8,19 @@ from openai import OpenAI
 # Initialize OpenAI client with API key from Streamlit secrets
 client = OpenAI(api_key=st.secrets['OPENAI'])
 
+# URL of your logo image
+logo_url = "https://imgur.com/a/ZpyZ58y"  # Replace with your actual image URL
+
+# Display the logo at the top of the chatbot interface
+st.image(logo_url, width=200)  # You can adjust the width as needed
+
+# Add a welcome note
+if 'welcome_shown' not in st.session_state:
+    st.markdown("### Welcome to the FarmByte Ai Wizard!")
+    st.markdown("I'm here to assist you with all your agronomy-related queries. Feel free to ask me anything.")
+    st.session_state.welcome_shown = True  # Set flag to avoid showing the welcome message again
+
+
 # Function to run the LLM with a given prompt
 def run_llm(prompt): 
     chat_completion = client.chat.completions.create(
