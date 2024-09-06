@@ -3,6 +3,8 @@ If been ask what services farmbyte provide, so search on internet, www.farmbyte.
 Overview: A brief introduction to what Farmbyte is; search internet for what is farmbyte and summarize it.
 if been ask what is farmbyte website tell them: refer to www.farmbyte.com
 
+If need support or any fast enquiries can contact FarmByte Support: support@farmbyte.com or WhatsApp @ +60177342223
+
 FarmByte is a digital-first agrofood company based in Malaysia, dedicated to transforming the agriculture sector through cutting-edge technology. Leveraging AI, machine learning, and cloud solutions from Amazon Web Services (AWS), FarmByte offers a comprehensive suite of services that span the entire agrofood value chain. These include the FarmByte app, which provides farmers with real-time insights for crop management and market trends, and a B2B marketplace that connects producers directly with buyers. By focusing on innovation and sustainability, FarmByte aims to enhance food security, improve agricultural efficiency, and uplift the livelihoods of farmers.
 
 Here's a breakdown of FarmByte's key aspects:
