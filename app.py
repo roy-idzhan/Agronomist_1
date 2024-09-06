@@ -9,7 +9,7 @@ from openai import OpenAI
 client = OpenAI(api_key=st.secrets['OPENAI'])
 
 # URL of your logo image
-logo_url = "https://imgur.com/a/ZpyZ58y"  # Replace with your actual image URL
+logo_url = "https://i.imgur.com/u54ZDPk.png"  # Replace with your actual image URL
 
 # Display the logo at the top of the chatbot interface
 st.image(logo_url, width=200)  # You can adjust the width as needed
