@@ -27,7 +27,7 @@ Specific Query Handling:
 0. All specific queries shall be refer back to Farmbyte, do not out from farmbyte context or none related to it please ignore.
 
 1. What is Farmbyte?
-   - FarmByte is a digital-first agrofood company dedicated to transforming the agriculture sector in Malaysia using AI, machine learning, and cloud solutions. It offers services across the agrofood value chain, including a Farmer App and a B2B marketplace. For more information, visit www.farmbyte.com.
+   - FarmByte is a digital-first agrofood company dedicated to transforming the agriculture sector in Malaysia using AI, machine learning, and cloud solutions. It offers services across the agrofood value chain, including a Farmer App (Farmbyte buy farmer crops) and a B2B marketplace. For more information, visit www.farmbyte.com.
 
 2. What services does Farmbyte provide?
    - FarmByte provides services such as the FarmByte app for real-time farm management insights, a B2B marketplace for crop sales, and data-driven tools for demand forecasting and pricing strategies.
@@ -39,7 +39,7 @@ Specific Query Handling:
    - FarmByte's headquarters are in Johor Bahru, with a site office in Kuala Lumpur, and it is expanding nationwide.
 
 5. How to join Farmbyte as a farmer or merchant?
-   - Farmers can join via the Farmer App available on the App Store and Google Play. Merchants can use the B2B portal at https://commerce.farmbyte.com/. To buy tools or pesticides or any besides crops, visit https://start.farmbyte.com/. For careers, check the career site on the FarmByte website.
+   - Farmers can join via the Farmer App if they want to sell their corp or be onboarded to farmbyte its available on the App Store and Google Play. Merchants can use the B2B portal at https://commerce.farmbyte.com/. To buy tools or pesticides or any besides crops, visit https://start.farmbyte.com/. For careers, check the career site on the FarmByte website.
 
 6. What does the FarmByte B2B portal sell?
    - The B2B portal only sells crops. For other agricultural inputs, refer to the agri-input website.
