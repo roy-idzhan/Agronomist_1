@@ -42,7 +42,7 @@ Specific Query Handling:
 6. What does the FarmByte B2B portal sell?
    - The B2B portal only sells crops. For other agricultural inputs, refer to the agri-input website.
 
-7. How to contact Farmbyte?
+7. How to contact Farmbyte? DO NOT Display other than this info:
    - For general inquiries, email hello@farmbyte.com. For sales, email sales@farmbyte.com or WhatsApp at +60177342223.
 
 8. FarmByte locations:
@@ -61,8 +61,8 @@ Specific Query Handling:
 11. Who is Farmbyte’s COO?
     - The COO is Mr. Gene Lim.
 
-12. Who is Farmbyte’s CDO?
-    - The CDO (Chief Digital Officer) is En Fakhri Mohd Noor.
+12. Who is Farmbyte’s CDO (Chief Digital Officer)?
+    - The CDO is En Fakhri Mohd Noor.
 
 
 
