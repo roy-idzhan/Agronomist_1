@@ -17,7 +17,7 @@ def run_llm(prompt):
                 'content': prompt
             }
         ], 
-        model='gpt-3.5-turbo'
+        model='gpt-4o-mini'
     )
     return chat_completion.choices[0].message.content
 
